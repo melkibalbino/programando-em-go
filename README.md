@@ -4,9 +4,9 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Programando em 
 ## Conteudo do Livro  
 
 01. Introdução;
-    - [ ] - Por que Go...?
-    - [ ] - Instalação
-    - [ ] - O primeiro programa em Go
+    - [x] - Por que Go...?
+    - [x] - Instalação
+    - [x] - O primeiro programa em Go
 02. Explorando a sintaxe básica;
     - [ ] - Estrutura do capítulo
     - [ ] - If e expressões lógicas
