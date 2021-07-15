@@ -8,10 +8,10 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Programando em 
     - [x] - Instalação
     - [x] - O primeiro programa em Go
 02. Explorando a sintaxe básica;
-    - [ ] - Estrutura do capítulo
-    - [ ] - If e expressões lógicas
-    - [ ] - Arrays e slices
-    - [ ] - Exemplo 1: conversor de medidas
+    - [x] - Estrutura do capítulo
+    - [x] - If e expressões lógicas
+    - [x] - Arrays e slices
+    - [x] - Exemplo 1: conversor de medidas
     - [ ] - Criando funções básicas
     - [ ] - Exemplo 2: quicksort e funções
 03. Indo além: mais exemplos;
